@@ -1,6 +1,7 @@
 # FinalReport
-Final Report template
+Final report for The Art of Scientific Computation (COMP90072) focusing in the "Respiratory Rates" project.
 
-The PDF for the report should be generated from main.tex:
-
-This is the change I am going to make.
+Author: Benjamin James
+Student ID: 1353412
+Date: May 2026
+Tutor: Paarangat Pushkarna
